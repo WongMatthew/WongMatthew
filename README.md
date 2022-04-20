@@ -43,3 +43,19 @@
 - 🏆 FLL BC Championship 1st Place Finalist
 - 🏆 FLL BC Championship 1st Place Inspiration Award Recipient
 - 🏆 FLL BC Championship 1st Place Robot Game Award Recipient
+
+
+## ⚡ Github Stats
+
+  <br />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=WongMatthew&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WongMatthew&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
+
+
+#
+
+<div align="center">
+
+### Show some ❤️ by starring some of the repositories!
+
+</div>
