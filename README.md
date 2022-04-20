@@ -23,7 +23,7 @@
 ## 📖 Currently interested in ...
 
 - MERN Stack
-- AngularJS and TypeScript
+- ReactJS and TypeScript
 - Mobile Development (Flutter/Dart)
 - OOP with JS and C++
 
