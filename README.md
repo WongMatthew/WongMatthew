@@ -25,6 +25,7 @@
 - MERN Stack
 - AngularJS and TypeScript
 - Mobile Development (Flutter/Dart)
+- OOP with JS and C++
 
 ## 🏆 Achievements
 
