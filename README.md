@@ -2,8 +2,9 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/matthewwong1129/)
 [![DevPost Badge](https://img.shields.io/badge/DevPost-3b5998?style=flat-square&logo=devpost&logoColor=white)](https://devpost.com/wongmatthew357)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/ermergesh)
 [![Website Badge](https://img.shields.io/badge/-Website-e4405f?style=flat-square&logo=google-chrome&logoColor=white)](https://wongmatt.dev/)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/ermergesh)
+
 
 ## 🚀 I'm a student, learner, gamer and developer!!
 
