@@ -20,7 +20,7 @@
 - 👀 Seeking 2022 Internship
 - 🌱 I’m currently honing my skills at hackathons!
 - 🤗 Reach out to me if you're interested in collaborating
-- 👨‍💻 Working on [Pokedex](https://github.com/WongMatthew/Pokedex)
+- 👨‍💻 Working on [Pokedex](https://github.com/WongMatthew/Pokedex) - Check it out what I have so far [here](https://pokedex-e8d02.web.app/)!
 - ⚖️ Judging and workshopping at [TOHacks](https://www.tohacks.ca/)
 
 ## 📖 Currently interested in ...
