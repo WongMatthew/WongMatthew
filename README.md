@@ -32,6 +32,7 @@
 ## 🏆 Achievements
 
 - 🏅 HackTheValley 2021 - DCP Challenge 1st Place - [Davily COVID Predictive Model](https://github.com/WongMatthew/Daily-COVID-Prediction-Model)
+- 🥇 HawkHacks2022 - 1st Place Overall - [SafePulse](https://github.com/MitchellMarkGeorge/SafePulse)
 - 🥇 QHacks 2022 - 3rd Place Overall - [SignTube](https://github.com/Aryaman73/SignTube)
 - 🥈 HackUMBC 2021 - 2nd Place Overall - [Adventure Addict](https://github.com/DavidBrynnHouse/CYOA)
 - 🥉 BCHacks 2022 - Best Diversity in Tech - [Diversify](https://github.com/pidgeonforlife/Diversify)
