@@ -20,7 +20,8 @@
 - 👀 Seeking 2022 Internship
 - 🌱 I’m currently honing my skills at hackathons!
 - 🤗 Reach out to me if you're interested in collaborating
-- 👨‍💻 Working on [YouKraine](https://github.com/pidgeonforlife/YouKraine)
+- 👨‍💻 Working on [Pokedex](https://github.com/WongMatthew/Pokedex)
+- ⚖️ Judging and workshopping at [TOHacks](https://www.tohacks.ca/)
 
 ## 📖 Currently interested in ...
 
