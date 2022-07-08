@@ -7,6 +7,7 @@
 
 
 ## 🚀 I'm a student, learner, gamer and developer!!
+### 😎 and now an [MLH Top 50 Hacker](https://top.mlh.io/2022/profiles/matthew-wong)
 
 - 🔥 I enjoy developing creative solutions to everyday problems using ML and learning more about programming
 - 💻 Programming in Python and learning JavaScript
@@ -17,7 +18,7 @@
 
 ## What am I up to?
 
-- 👀 Seeking 2022 Internship
+- 👀 Seeking 2023 Internship
 - 🌱 I’m currently honing my skills at hackathons!
 - 🤗 Reach out to me if you're interested in collaborating
 - 👨‍💻 Working on [Pokedex](https://github.com/WongMatthew/Pokedex) - Check it out what I have so far [here](https://pokedex-e8d02.web.app/)!
@@ -32,6 +33,7 @@
 
 ## 🏆 Achievements
 
+- 😎 Major League Hacking - Top 50 Hacker of 2022 Season - [Top50 Profile](https://top.mlh.io/2022/profiles/matthew-wong)
 - 🏅 HackTheValley 2021 - DCP Challenge 1st Place - [Davily COVID Predictive Model](https://github.com/WongMatthew/Daily-COVID-Prediction-Model)
 - 🥇 HawkHacks2022 - 1st Place Overall - [SafePulse](https://github.com/MitchellMarkGeorge/SafePulse)
 - 🥇 QHacks 2022 - 3rd Place Overall - [SignTube](https://github.com/Aryaman73/SignTube)
