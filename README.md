@@ -13,7 +13,7 @@
 - 💻 Programming in Python and learning JavaScript
 - 📚 Studying at Simon Fraser University
 - 🎮 Playing LostArk, Valorant, Genshin, CSGO and Payday2
-- 📝 Check out my [Resume](https://bit.ly/3jPMiiJ)
+- 📝 Check out my [Resume](https://bit.ly/3PcFrNY)
 - 📫 Reach out to me at wongmatthew357@gmail.com
 
 ## What am I up to?
