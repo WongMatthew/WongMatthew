@@ -21,8 +21,8 @@
 - 👀 Seeking 2023 Internship
 - 🌱 I’m currently honing my skills at hackathons!
 - 🤗 Reach out to me if you're interested in collaborating
-- 👨‍💻 Working [something?]() at CalHacks 2022!
-- ⚖️ Judging and workshopping at [TOHacks](https://www.tohacks.ca/)
+- 👨‍💻 Working [GutBuddy](https://github.com/KartavyaSharma/CalHacks) at CalHacks 2022!
+- ⚖️ Coordinating [StormHacks](https://stormhacks.com/)!!
 
 ## 📖 Currently interested in ...
 
@@ -44,6 +44,7 @@
 - 💯 YHacks 2022 - Audience Favourite Award - [YouKraine](https://github.com/pidgeonforlife/YouKraine)
 - 🥈 HackNYU - Most Outrageous Hack - [PeerOrgan](https://github.com/pidgeonforlife/PeerOrgan)
 - 🎯 NewHacks 2021 - Best Domain - [MealMate](https://github.com/WongMatthew/MealMate)
+- 🏅 CalHacks 2022 - Best Twilio API Implementation - [GutBuddy](https://github.com/KartavyaSharma/CalHacks)
 - 🙌 HackWestern 2021 - Honorable Mention & DashaAi Runner-up - [AvaAssist](https://github.com/AlanAyy/hack-western-2021)
 - 🥈 FTC BC Championship 2nd Place Finalist
 - 🏆 FTC BC Championship Design Award Recipient
