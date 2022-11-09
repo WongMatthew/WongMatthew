@@ -68,3 +68,7 @@
 ### Show some ❤️ by starring some of the repositories!
 
 </div>
+
+I know that my github commits don't look that great, but its cause they're to PRIVATE REPOS 😭😭 I promise I commit 😭😭
+![image](https://user-images.githubusercontent.com/49925170/200956985-a955898a-feea-4ab0-a0d6-e2c1d63920e9.png)
+
