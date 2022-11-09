@@ -14,7 +14,7 @@
 - 📜 Working at The Digital Lab @ [BC Children's Hospital](https://www.bcchdigital.ca/)
 - 📚 Studying at Simon Fraser University (Not really)
 - 🎮 Playing LostArk, Valorant, Genshin, CSGO and Payday2
-- 📝 Check out my [Resume](https://bit.ly/3f2RDV2)
+- 📝 Check out my [Resume](https://bit.ly/3G4UiZy)
 - 📫 Reach out to me at wongmatthew357@gmail.com
 
 ## What am I up to?
