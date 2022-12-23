@@ -22,7 +22,7 @@
 - 👀 Seeking 2023 Internship
 - 🌱 I’m currently honing my skills at hackathons!
 - 🤗 Reach out to me if you're interested in collaborating
-- 👨‍💻 Working [GutBuddy](https://github.com/KartavyaSharma/CalHacks) at CalHacks 2022!
+- 👨‍💻 Working on [LeetCode](https://github.com/WongMatthew/Leetcode-Solution)!
 - ⚖️ Coordinating [StormHacks](https://stormhacks.com/)!!
 
 ## 📖 Currently interested in ...
