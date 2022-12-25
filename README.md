@@ -12,7 +12,7 @@
 - 🔥 I enjoy developing creative solutions to everyday problems using ML and learning more about programming
 - 💻 Programming in Python and learning JavaScript
 - 📜 Working at The Digital Lab @ [BC Children's Hospital](https://www.bcchdigital.ca/)
-- 📚 Studying at Simon Fraser University (Not really)
+- 📚 Studying at Simon Fraser University
 - 🎮 Playing LostArk, Valorant, Genshin, CSGO and Payday2
 - 📝 Check out my [Resume](https://bit.ly/3G4UiZy)
 - 📫 Reach out to me at wongmatthew357@gmail.com
