@@ -6,7 +6,7 @@
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/ermergesh)
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=WongMatthew.WongMatthew)
 
-## 🚀 I'm a student, learner, gamer and developer!
+## 🚀 I'm a student, learner, gamer and developer!!
 ### 😎 and now an [MLH Top 50 Hacker](https://top.mlh.io/2022/profiles/matthew-wong)
 
 - 🔥 I enjoy developing creative solutions to everyday problems using ML and learning more about programming
