@@ -25,7 +25,7 @@
 - 👨‍💻 Working on [LeetCode](https://github.com/WongMatthew/Leetcode-Solution)!
 - ⚖️ Coordinating [StormHacks](https://stormhacks.com/)!!
 
-## 📖 Currently interested in ...
+## 📖 Currently interested in...
 
 - MERN Stack
 - ReactJS and TypeScript
