@@ -19,7 +19,7 @@
 
 ## What am I up to?
 
-- 👀 Seeking 2023 Internship
+- 👀 Seeking Summer 2023 Internships
 - 🌱 I’m currently honing my skills at hackathons!
 - 🤗 Reach out to me if you're interested in collaborating
 - 👨‍💻 Working on [LeetCode](https://github.com/WongMatthew/Leetcode-Solution)!
