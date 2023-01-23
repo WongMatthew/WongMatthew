@@ -9,8 +9,8 @@
 ## 🚀 I'm a student, learner, gamer and developer!
 ### 😎 and now an [MLH Top 50 Hacker](https://top.mlh.io/2022/profiles/matthew-wong)
 
-- 🔥 I enjoy developing creative solutions to everyday problems using ML and learning more about programming
-- 💻 Programming in Python and learning JavaScript
+- 🔥 I enjoy developing creative solutions to everyday problems and learning more about programming
+- 💻 Programming in Python and ReactJS and learning Typescript
 - 📜 Working at The Digital Lab @ [BC Children's Hospital](https://www.bcchdigital.ca/)
 - 📚 Studying at Simon Fraser University
 - 🎮 Playing LostArk, Valorant, Genshin, CSGO and Payday2
@@ -23,6 +23,7 @@
 - 🌱 I’m currently honing my skills at hackathons!
 - 🤗 Reach out to me if you're interested in collaborating
 - 👨‍💻 Working on [LeetCode](https://github.com/WongMatthew/Leetcode-Solution)!
+- 👨‍💻 Working on [C-B30](https://github.com/WongMatthew/C-B30)!
 - ⚖️ Coordinating [StormHacks](https://stormhacks.com/)!!
 
 ## 📖 Currently interested in...
