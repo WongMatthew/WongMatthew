@@ -11,7 +11,7 @@
 
 - 🔥 I enjoy developing creative solutions to everyday problems and learning more about programming
 - 💻 Programming in Python and ReactJS and learning Typescript
-- 📜 Previously worked at The Digital Lab @ [BC Children's Hospital](https://www.bcchdigital.ca/)
+- 📜 Previously worked at The Digital Lab @ [BC Children's Hospital](https://www.bcchdigital.ca/) as a full stack SWD
 - ⚙️ Working on self development 
 - 📚 Studying at Simon Fraser University
 - 🎮 Playing League of Legends, Valorant, Genshin, CSGO and Payday2
