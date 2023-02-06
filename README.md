@@ -26,11 +26,13 @@
 - 👨‍💻 Working on [LeetCode](https://github.com/WongMatthew/Leetcode-Solution)!
 - 👨‍💻 Working on [C-B30](https://github.com/WongMatthew/C-B30)!
 - ⚖️ Coordinating [StormHacks](https://stormhacks.com/)!!
+- ✈️ Heading to Global Spark Hacks!
 
 ## 📖 Currently interested in...
 
 - MERN Stack
 - ReactJS and TypeScript
+- ChatGPT for social good
 - Mobile Development (Flutter/Dart)
 - OOP with JS and C++
 
