@@ -66,6 +66,8 @@
 
 #
 
+![snake gif](https://github.com/WongMatthew/WongMatthew/blob/output/github-contribution-grid-snake.gif)
+
 <div align="center">
 
 ### Show some ❤️ by starring some of the repositories!
