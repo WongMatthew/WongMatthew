@@ -25,6 +25,8 @@
 - 🤗 Reach out to me if you're interested in collaborating
 - 👨‍💻 Working on [LeetCode](https://github.com/WongMatthew/Leetcode-Solution)!
 - 👨‍💻 Working on [C-B30](https://github.com/WongMatthew/C-B30)!
+- 📚 Practicing NodeJS and ExpressJS
+- 📢 Hosting Coding Workshops! This week it's Github[https://organize.mlh.io/events/9248-pizza-fund-event-in-vancouver-sfu]
 - ⚖️ Coordinating [StormHacks](https://stormhacks.com/)!!
 - ✈️ Heading to Global Spark Hacks!
 
