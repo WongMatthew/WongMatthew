@@ -1,4 +1,4 @@
-# Hi there, I'm Matthew - aka Ermergesh 👋 
+![readmeIntro](https://user-images.githubusercontent.com/49925170/219802678-085d6ceb-1c38-4bdf-8740-45a8c03f21ca.gif)
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/matthewwong1129/)
 [![DevPost Badge](https://img.shields.io/badge/DevPost-3b5998?style=flat-square&logo=devpost&logoColor=white)](https://devpost.com/wongmatthew357)
