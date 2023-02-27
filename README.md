@@ -26,7 +26,7 @@
 - 👨‍💻 Working on [LeetCode](https://github.com/WongMatthew/Leetcode-Solution)!
 - 👨‍💻 Working on [C-B30](https://github.com/WongMatthew/C-B30)!
 - 📚 Practicing NodeJS and ExpressJS
-- 👷 SFU Surge Logistics Coordinator
+- 👷 SFU Surge Logistics Coordinator and Workshop Host
 - 📢 Hosting Coding Workshops! This week it's [Github](https://organize.mlh.io/events/9248-pizza-fund-event-in-vancouver-sfu) And dont forget to signup for my [ReactJS workshop](https://organize.mlh.io/events/9293-sfu-surge-road-to-stormhacks-react-website-quickstart)!
 - ⚖️ Coordinating [StormHacks](https://stormhacks.com/)!!
 - ✈️ Heading to Global Spark Hacks!
