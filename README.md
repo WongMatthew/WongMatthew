@@ -35,6 +35,7 @@
 ## 📖 Currently interested in...
 
 - MERN Stack
+- OpenSource
 - ReactJS and TypeScript
 - ChatGPT for social good
 - Mobile Development (Flutter/Dart)
