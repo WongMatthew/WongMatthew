@@ -11,7 +11,7 @@
 ### 😎 and now an [MLH Top 50 Hacker](https://top.mlh.io/2022/profiles/matthew-wong)
 
 - 🔥 I enjoy developing creative solutions to everyday problems and learning more about programming
-- 💻 Programming with Python and ReactJS and learning Typescript
+- 💻 Programming with **Python** and **ReactJS** and learning **Typescript**
 - 📜 Previously worked at The Digital Lab @ [BC Children's Hospital](https://www.bcchdigital.ca/) as a full stack SWD
 - ⚙️ Working on self development 
 - 📚 Studying at Simon Fraser University
@@ -31,7 +31,8 @@
 - 👷 SFU Surge Logistics Coordinator and Workshop Host
 - 📢 Hosting Coding Workshops! At the end of the month, it's a [ReactJS workshop](https://organize.mlh.io/events/9293-sfu-surge-road-to-stormhacks-react-website-quickstart) on SFU Surrey Campus!
 - ⚖️ Coordinating [StormHacks](https://stormhacks.com/)!!
-- ✈️ Heading to Global Spark Hacks!
+- 🏫 [StackOverFlow Student Ambassador](https://students.stackoverflow.co/) and [Github Campus Expert](https://education.github.com/experts)
+- ✈️ Heading to LA Hacks!
 
 ## 📖 Currently interested in...
 
