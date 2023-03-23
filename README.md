@@ -27,7 +27,7 @@
 - 👨‍💻 Working on [LeetCode](https://github.com/WongMatthew/Leetcode-Solution)!
 - 👨‍💻 Working on [C-B30](https://github.com/WongMatthew/C-B30)!
 - 👨‍💻 Working on [SFU Flow](https://github.com/SFUFLow)!
-- 📚 Practicing NodeJS and ExpressJS
+- 📚 Practicing NextJS, NodeJS and ExpressJS
 - 👷 SFU Surge Logistics Coordinator and Workshop Host
 - 📢 Hosting Coding Workshops! At the end of the month, it's a [ReactJS workshop](https://organize.mlh.io/events/9293-sfu-surge-road-to-stormhacks-react-website-quickstart) on SFU Surrey Campus!
 - ⚖️ Coordinating [StormHacks](https://stormhacks.com/)!!
