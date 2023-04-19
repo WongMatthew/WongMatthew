@@ -13,7 +13,7 @@
 - 🔥 I enjoy developing creative solutions to everyday problems and learning more about programming
 - 💻 Programming with **Python** and **ReactJS** and learning **Typescript**
 - 📜 Previously worked at The Digital Lab @ [BC Children's Hospital](https://www.bcchdigital.ca/) as a full stack SWD
-- 📜 **Incoming SWE at Providence Research and Heart Lung Institue @ St. Pauls Hospital** 
+- 📜 **Incoming SWD at Providence Research and Heart Lung Institue @ St. Pauls Hospital** 
 - ⚙️ Working on self development 
 - 📚 Studying at Simon Fraser University
 - 🎮 Playing League of Legends, Valorant, Genshin, CSGO and Payday2
