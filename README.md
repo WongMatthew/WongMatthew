@@ -30,7 +30,7 @@
 - 👨‍💻 Working on [SFU Flow](https://github.com/SFUFLow)!
 - 📚 Practicing NextJS, NodeJS and ExpressJS
 - 👷 SFU Surge Logistics Coordinator and Workshop Host
-- 📢 Hosting Coding Workshops! At the end of the month, it's a [ReactJS workshop](https://organize.mlh.io/events/9293-sfu-surge-road-to-stormhacks-react-website-quickstart) on SFU Surrey Campus!
+- 📢 Hosting Road to StormHacks Coding workshops!
 - ⚖️ Coordinating [StormHacks](https://stormhacks.com/)!! Applications open NOW!
 - 🏫 [StackOverFlow Student Ambassador](https://students.stackoverflow.co/) and [Github Campus Expert](https://education.github.com/experts)
 - ✈️ Heading to LA Hacks!
