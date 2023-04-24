@@ -11,7 +11,7 @@
 ### 😎 and now an [MLH Top 50 Hacker](https://top.mlh.io/2022/profiles/matthew-wong)
 
 - 🔥 I enjoy developing creative solutions to everyday problems and learning more about programming
-- 💻 Programming with **Python** and **ReactJS** and learning **Typescript**
+- 💻 Programming with **Python**, **ReactJS**, **Typescript** and learning **Oracle**
 - 📜 Previously worked at The Digital Lab @ [BC Children's Hospital](https://www.bcchdigital.ca/) as a full stack SWD
 - 📜 **Incoming SWD at Providence Research and Heart Lung Institue @ St. Pauls Hospital** 
 - ⚙️ Working on self development 
