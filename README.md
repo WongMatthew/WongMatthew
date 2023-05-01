@@ -17,7 +17,7 @@
 - ⚙️ Working on self development 
 - 📚 Studying at Simon Fraser University
 - 🎮 Playing League of Legends, Valorant, Genshin, CSGO and Payday2
-- 📝 Check out my [Resume](https://bit.ly/3Ti8ym2)
+- 📝 Check out my [Resume](https://bit.ly/3LKYgZB)
 - 📫 Reach out to me at wongmatthew357@gmail.com
 
 ## What am I up to?
