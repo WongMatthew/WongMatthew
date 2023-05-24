@@ -26,7 +26,6 @@
 - 🌱 I’m currently honing my skills at hackathons!
 - 🤗 Reach out to me if you're interested in collaborating
 - 👨‍💻 Working on [LeetCode](https://github.com/WongMatthew/Leetcode-Solution)!
-- 👨‍💻 Working on [C-B30](https://github.com/WongMatthew/C-B30)!
 - 👨‍💻 Working on [SFU Flow](https://github.com/SFUFLow)!
 - 📚 Practicing NextJS, NodeJS and ExpressJS
 - 👷 SFU Surge Logistics Coordinator and Workshop Host
