@@ -29,10 +29,10 @@
 - 👨‍💻 Working on [SFU Flow](https://github.com/SFUFLow)!
 - 📚 Practicing NextJS, NodeJS and ExpressJS
 - 👷 SFU Surge Logistics Coordinator and Workshop Host
-- 📢 Hosting Road to StormHacks Coding workshops!
-- ⚖️ Coordinating [StormHacks](https://stormhacks.com/)!! Applications open NOW!
+- 📢 Planning SFU Surge Mini Hackathon!
+- ⚖️ Finished organizing [StormHacks](https://stormhacks.com/)!!
 - 🏫 [StackOverFlow Student Ambassador](https://students.stackoverflow.co/) and [Github Campus Expert](https://education.github.com/experts)
-- ✈️ Heading to LA Hacks!
+- ✈️ Heading to Hackcon! Hopefully as a speaker 🤞🤞🤞
 
 ## 📖 Currently interested in...
 
