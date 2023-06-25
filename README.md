@@ -14,7 +14,7 @@
 - 💻 Programming with **Python**, **ReactJS**, **Typescript** and learning **Oracle**
 - 📜 **Fullstack SWD at Providence Research and Heart Lung Institue @ St. Pauls Hospital** 
 - 📜 Previously worked at The Digital Lab @ [BC Children's Hospital](https://www.bcchdigital.ca/) as a full stack SWD
-- ⚙️ Working on self development 
+- ⚙️ Working on self-development 
 - 📚 Studying at Simon Fraser University
 - 🎮 Playing League of Legends, Valorant, Genshin, CSGO and Payday2
 - 📝 Check out my [Resume](https://bit.ly/3LKYgZB)!
