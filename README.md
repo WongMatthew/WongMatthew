@@ -33,7 +33,7 @@
 - 📢 Incoming **DIRECTOR of Logistics @ SFU Surge**
 - ⚖️ Finished organizing [StormHacks](https://stormhacks.com/)!!
 - 🏫 [StackOverFlow Student Ambassador](https://students.stackoverflow.co/) and [Github Campus Expert](https://education.github.com/experts)
-- ✈️ Heading to Hackcon! Hopefully as a speaker 🤞🤞🤞
+- ✈️ Heading to Hackcon as a speaker! Talking about MLH Pizza Fund events! 🤞🤞🤞
 
 ## 📖 Currently interested in...
 
