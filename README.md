@@ -12,7 +12,7 @@
 
 - 🔥 I enjoy developing creative solutions to everyday problems and learning more about programming
 - 💻 Programming with **Python**, **ReactJS**, **Typescript** and learning **Oracle**
-- 📜 **Fullstack SWD at Providence Research and Heart Lung Institue @ St. Pauls Hospital** 
+- 📜 Previously worked at Providence Research and Heart Lung Institue @ St. Pauls Hospital as a fullstack SWD
 - 📜 Previously worked at The Digital Lab @ [BC Children's Hospital](https://www.bcchdigital.ca/) as a full stack SWD
 - ⚙️ Working on self-development 
 - 📚 Studying at Simon Fraser University
