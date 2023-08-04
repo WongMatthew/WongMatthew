@@ -34,6 +34,7 @@
 - ⚖️ Finished organizing [StormHacks](https://stormhacks.com/)!!
 - 🏫 [StackOverFlow Student Ambassador](https://students.stackoverflow.co/) and [Github Campus Expert](https://education.github.com/experts)
 - ✈️ Heading to Hackcon as a speaker! Talking about MLH Pizza Fund events! 🤞🤞🤞
+- ✈️ Backpacking around Japan!
 
 ## 📖 Currently interested in...
 
