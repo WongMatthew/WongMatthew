@@ -40,7 +40,6 @@
 
 - MERN Stack
 - Open Source
-- Apex/Oracle
 - ReactJS and NextJS
 - ChatGPT for social good
 - Mobile Development (Flutter/Dart) <-- Pain💀💀
