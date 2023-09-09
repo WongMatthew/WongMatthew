@@ -22,7 +22,7 @@
 
 ## What am I up to?
 
-- 👀 Seeking Fall 2023 Internships
+- 👀 Seeking Summer 2023 internships
 - 🌱 I’m currently honing my skills at hackathons!
 - 🤗 Reach out to me if you're interested in collaborating
 - 👨‍💻 Working on [LeetCode](https://github.com/WongMatthew/Leetcode-Solution)!
@@ -33,8 +33,7 @@
 - 📢 **DIRECTOR of Logistics @ SFU Surge**
 - ⚖️ Finished organizing [StormHacks](https://stormhacks.com/)!!
 - 🏫 [StackOverFlow Student Ambassador](https://students.stackoverflow.co/) and [Github Campus Expert](https://education.github.com/experts)
-- ✈️ Heading to Hackcon as a speaker! Talking about MLH Pizza Fund events! 🤞🤞🤞
-- ✈️ Backpacking around Japan!
+- ✈️ Heading to Waterloo's Hack The North and University Texas Dallas Hacks!
 
 ## 📖 Currently interested in...
 
