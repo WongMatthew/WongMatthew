@@ -28,9 +28,8 @@
 - 👨‍💻 Working on [LeetCode](https://github.com/WongMatthew/Leetcode-Solution)!
 - 👨‍💻 Working on [SFU Flow](https://github.com/SFUFLow)!
 - 📚 Practicing NextJS, NodeJS and ExpressJS
-- 👷 SFU Surge Logistics Director and Workshop Host
+- 👷 **DIRECTOR of Logistics @ SFU Surge** and Workshop Host
 - 📢 Directing SFU Surge Mini Hackathon and Co-Directing StormHacks2024
-- 📢 **DIRECTOR of Logistics @ SFU Surge**
 - ⚖️ Finished organizing [StormHacks](https://stormhacks.com/)!!
 - 🏫 [StackOverFlow Student Ambassador](https://students.stackoverflow.co/) and [Github Campus Expert](https://education.github.com/experts)
 - ✈️ Heading to Waterloo's Hack The North and University Texas Dallas Hacks!
