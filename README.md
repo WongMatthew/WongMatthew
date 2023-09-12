@@ -27,7 +27,7 @@
 - 🤗 Reach out to me if you're interested in collaborating
 - 👨‍💻 Working on [LeetCode](https://github.com/WongMatthew/Leetcode-Solution)!
 - 👨‍💻 Working on [SFU Flow](https://github.com/SFUFLow)!
-- 📚 Practicing NextJS, NodeJS and ExpressJS
+- 📚 Practicing NextJS, NodeJS and ExpressJS and C/C++
 - 👷 **DIRECTOR of Logistics @ SFU Surge** and Workshop Host
 - 📢 Directing SFU Surge Mini Hackathon and Co-Directing StormHacks2024
 - ⚖️ Finished organizing [StormHacks](https://stormhacks.com/)!!
