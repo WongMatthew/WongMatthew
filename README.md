@@ -32,7 +32,7 @@
 - 📢 Directing SFU Surge Mini Hackathon and Co-Directing StormHacks2024
 - ⚖️ Finished organizing [StormHacks](https://stormhacks.com/)!!
 - 🏫 [StackOverFlow Student Ambassador](https://students.stackoverflow.co/) and [Github Campus Expert](https://education.github.com/experts)
-- ✈️ Heading to Waterloo's Hack The North and University Texas Dallas Hacks!
+- ✈️ Heading to University Texas Dallas Hacks!
 
 ## 📖 Currently interested in...
 
