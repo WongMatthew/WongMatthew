@@ -30,7 +30,6 @@
 - 📚 Practicing NextJS, NodeJS and ExpressJS and C/C++
 - 👷 **DIRECTOR of Logistics @ SFU Surge** and Workshop Host
 - 📢 Directing SFU Surge Mini Hackathon and Co-Directing StormHacks2024
-- ⚖️ Finished organizing [StormHacks](https://stormhacks.com/)!!
 - 🏫 [StackOverFlow Student Ambassador](https://students.stackoverflow.co/) and [Github Campus Expert](https://education.github.com/experts)
 - ✈️ Heading to University Texas Dallas Hacks!
 
