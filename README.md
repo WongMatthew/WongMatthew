@@ -31,7 +31,7 @@
 - 👷 **DIRECTOR of Logistics @ SFU Surge** and Workshop Host
 - 📢 Directing SFU Surge Mini Hackathon and Co-Directing StormHacks2024
 - 🏫 [StackOverFlow Student Ambassador](https://students.stackoverflow.co/) and [Github Campus Expert](https://education.github.com/experts)
-- ✈️ Heading to University Texas Dallas Hacks!
+- ✈️ Heading to Japan... again!
 
 ## 📖 Currently interested in...
 
