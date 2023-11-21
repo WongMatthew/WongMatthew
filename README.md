@@ -38,7 +38,7 @@
 - MERN Stack
 - Open Source
 - ReactJS and NextJS
-- ChatGPT for social good
+- AI for social good
 - Mobile Development (Flutter/Dart) <-- Pain💀💀
 - OOP with JS and C++
 
