@@ -29,7 +29,7 @@
 - 👨‍💻 Working on [SFU Flow](https://github.com/SFUFLow)!
 - 📚 Practicing NextJS, NodeJS and ExpressJS and C/C++
 - 👷 **DIRECTOR of Logistics @ SFU Surge** and Workshop Host
-- 📢 Directing SFU Surge Mini Hackathon and Co-Directing StormHacks2024
+- 📢 Directing JourneyHacks and Co-Directing StormHacks2024
 - 🏫 [StackOverFlow Student Ambassador](https://students.stackoverflow.co/) and [Github Campus Expert](https://education.github.com/experts)
 - ✈️ Heading to Japan... again!
 
