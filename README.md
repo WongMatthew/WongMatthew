@@ -31,7 +31,7 @@
 - 👷 **DIRECTOR of Logistics @ SFU Surge** and Workshop Host
 - 📢 Directing JourneyHacks and Co-Directing StormHacks2024
 - 🏫 [StackOverFlow Student Ambassador](https://students.stackoverflow.co/) and [Github Campus Expert](https://education.github.com/experts)
-- ✈️ Heading to Japan... again!
+- ✈️ Heading to Treehacks and Japan... again!
 
 ## 📖 Currently interested in...
 
