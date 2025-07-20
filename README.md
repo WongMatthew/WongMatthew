@@ -11,7 +11,7 @@
 ### 😎 and now an [MLH Top 50 Hacker](https://top.mlh.io/2022/profiles/matthew-wong)
 
 - 🔥 I enjoy developing creative solutions to everyday problems and learning more about programming
-- 💻 Programming with **Python**, **ReactJS**, **NextJS**, **Oracle**, **C/C++**
+- 💻 Programming with **Python**, **ReactJS**, **NextJS**
 - 📜 Previously worked at Providence Research and Heart Lung Institue @ St. Pauls Hospital as a full stack SWD
 - 📜 Previously worked at The Digital Lab @ [BC Children's Hospital](https://www.bcchdigital.ca/) as a full stack SWD
 - ⚙️ Working on self-development 
@@ -25,20 +25,18 @@
 - 👀 Seeking Summer 2023 internships
 - 🌱 I’m currently honing my skills at hackathons!
 - 🤗 Reach out to me if you're interested in collaborating
-- 👨‍💻 Working on [LeetCode](https://github.com/WongMatthew/Leetcode-Solution)!
-- 👨‍💻 Working on [SFU Flow](https://github.com/SFUFLow)!
 - 📚 Practicing NextJS, NodeJS and ExpressJS and C/C++
-- 👷 **DIRECTOR of Logistics @ SFU Surge** and Workshop Host
-- 📢 Directing JourneyHacks and Co-Directing StormHacks2024
+- 👷 **President @ SFU Surge** 
+- 📢 Directing JourneyHacks and StormHacks2025
 - 🏫 [StackOverFlow Student Ambassador](https://students.stackoverflow.co/) and [Github Campus Expert](https://education.github.com/experts)
-- ✈️ Heading to Treehacks and Japan... again!
+- ✈️ Heading to... school :( 
 
 ## 📖 Currently interested in...
 
 - MERN Stack
 - Open Source
 - ReactJS and NextJS
-- AI for social good
+- AI for social good; healthcare research
 - Mobile Development (Flutter/Dart) <-- Pain💀💀
 - OOP with JS and C++
 
